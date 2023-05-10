@@ -1,0 +1,18 @@
+h2{
+    text-align: center;
+    padding:1rem;
+}
+
+.pokemon-list,.selected-pokemon{
+    flex:1;
+    box-shadow: 1px 1px 3px 3px grey;
+}
+
+.available-pokemon,.selected-pokemons{
+    box-shadow: 2px 2px 2px 2px rgb(223, 194, 119);
+    margin:2rem;
+    height:8vh;
+    padding:2rem;
+    padding-top: 1rem;
+    font-weight: 700;
+}
